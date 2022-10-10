@@ -1,0 +1,45 @@
+h1{
+    height: 300px;
+    width: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-image: url(https://thumbs.dreamstime.com/b/matterhorn-panorama-viewed-rothorn-paradise-m-above-zermatt-switzerland-61441165.jpg) ;
+    font-size: 10vw;
+    color: rgb(200, 200, 196);
+    text-align: center;
+
+
+}
+
+.description {
+text-align: center;
+border: solid;
+margin-left: 20%;
+margin-right: 20%;
+padding: 1%;
+font-family: Arial, Helvetica, sans-serif;
+font-size: large;
+}
+.Itinerary {
+    text-align: center;
+    font-size: large;
+    padding: 4%;
+}
+.costs {
+    text-align: center;
+    font-size: large;
+    padding: 2%;
+
+}
+.squad {
+    text-align: center;
+    font-size: large;
+    padding: 2%;
+
+}
+.resize {
+    width:400px ;
+    height: 300px;
+    
+}
